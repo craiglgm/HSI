@@ -3,7 +3,7 @@ first_page = """
 	<html>
 	<body>
 
-	Hello World
+	Hello, World!
 
 	</body>
 	</html>
